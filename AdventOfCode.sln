@@ -7,7 +7,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inputs", "Inputs", "{B1DCFAC9-58A3-488E-867E-6BDEBBF6F34B}"
 	ProjectSection(SolutionItems) = preProject
 		Inputs\Day1Input.txt = Inputs\Day1Input.txt
-		Inputs\Day2Inputs.txt = Inputs\Day2Inputs.txt
+		Inputs\Day2Input.txt = Inputs\Day2Input.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2", "Day2\Day2.csproj", "{57A481A0-61BE-48AD-A758-1111B241F841}"

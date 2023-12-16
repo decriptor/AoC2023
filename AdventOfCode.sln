@@ -5,6 +5,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inputs", "Inputs", "{B1DCFA
 		Inputs\Day1Input.txt = Inputs\Day1Input.txt
 		Inputs\Day2Input.txt = Inputs\Day2Input.txt
 		Inputs\Day3Input.txt = Inputs\Day3Input.txt
+		Inputs\Day3Input_basic.txt = Inputs\Day3Input_basic.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "src\Day1\Day1.csproj", "{82877337-0D78-499B-A965-80EFABB87FD1}"

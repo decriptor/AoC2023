@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inputs", "Inputs", "{B1DCFA
 		Inputs\Day2Input.txt = Inputs\Day2Input.txt
 		Inputs\Day3Input.txt = Inputs\Day3Input.txt
 		Inputs\Day3Input_basic.txt = Inputs\Day3Input_basic.txt
+		Inputs\Day4Input.txt = Inputs\Day4Input.txt
+		Inputs\Day4Input_basic.txt = Inputs\Day4Input_basic.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1", "src\Day1\Day1.csproj", "{82877337-0D78-499B-A965-80EFABB87FD1}"
@@ -15,6 +17,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3", "src\Day3\Day3.csproj", "{4842C56D-7BAB-4A9E-945C-FEBE3F3B33E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "src\Utils\Utils.csproj", "{E7C27877-1183-42A3-9BC8-5B589B1E37B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4", "src\Day4\Day4.csproj", "{D9F8A934-2DFA-4129-A8D4-C34D53973890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,5 +42,9 @@ Global
 		{E7C27877-1183-42A3-9BC8-5B589B1E37B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C27877-1183-42A3-9BC8-5B589B1E37B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C27877-1183-42A3-9BC8-5B589B1E37B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F8A934-2DFA-4129-A8D4-C34D53973890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F8A934-2DFA-4129-A8D4-C34D53973890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F8A934-2DFA-4129-A8D4-C34D53973890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F8A934-2DFA-4129-A8D4-C34D53973890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
